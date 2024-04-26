@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehan-khan</h1>   
 <h3 align="center">A student of 1st year from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=23rehan&label=Profile%20views&color=0e75b6&style=flat" alt="23rehan" /> </p>
+  
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=23rehan&label=Profile%20views&color=0e75b6&style=flat" alt="23rehan" /> </p>
 
 - 🔭 I’m currently working on **Many projects**
 
